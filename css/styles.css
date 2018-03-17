@@ -1,0 +1,4 @@
+div.committee-row > div > img {
+    max-width: 10em;
+    height: 10em;
+}
